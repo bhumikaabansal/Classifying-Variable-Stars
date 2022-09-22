@@ -1,4 +1,4 @@
-# Classifying-Variable-Stars-
+# Classifying-Variable-Stars
 📝 Problem Statement
 
 Classifying periodic variable stars amongst 4 categories.
